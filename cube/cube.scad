@@ -1,1 +1,3 @@
-cube(size=[10, 10, 10], center=true);
+size = 10;
+
+cube(size=[size, size, size], center=true);
