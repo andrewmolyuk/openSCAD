@@ -11,3 +11,6 @@ My personal openSCAD projects/scripts. All slicing configurations are optimized 
 
 ### Cube
 Simple 10x10 cube for printer/filament calibration.
+
+### Towel hanger
+Simple and functional towel hanger for a oven handle. Very useful.
