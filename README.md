@@ -24,3 +24,7 @@ Small birds feeder small-medium cages.
 
 ![Birds feeder](birds-feeder/birds-feeder.png "Birds feeder")
 
+### MeCreator 2 vertical spacer
+Vertical spacer for MeCreator 2 3D printer compensating glass height during extruder auto positioning.
+
+![MC2 spacer](mc2-spacer/mc2-spacer.png "MC2 spacer")
