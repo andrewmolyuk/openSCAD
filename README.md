@@ -12,5 +12,15 @@ My personal openSCAD projects/scripts. All slicing configurations are optimized 
 ### Cube
 Simple 10x10 cube for printer/filament calibration.
 
+![Cube](cube/cube.png "Cube")
+
 ### Towel hanger
 Simple and functional towel hanger for a oven handle. Very useful.
+
+![Towel hanger](towel-hanger/towel-hanger.png "Towel hanger")
+
+### Birds feeder
+Small birds feeder small-medium cages.
+
+![Birds feeder](birds-feeder/birds-feeder.png "Birds feeder")
+
