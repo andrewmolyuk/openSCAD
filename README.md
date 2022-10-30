@@ -33,3 +33,7 @@ Vertical spacer for MeCreator 2 3D printer compensating glass height during extr
 Adjustable feet for MeCreator 2 3D printer.
 
 ![MC2 feet](mc2-feet/mc2-feet.png "MC2 feet")
+
+### Kitchen doors handle
+
+![Kitchen doors handle](handle/handle.png "Kitchen doors handle")
