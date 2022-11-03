@@ -32,6 +32,6 @@ module base() {
 }
 
 module holes() {
-    translate([r*cos(a)+2,40,5]) rotate([-90,0,90]) cylinder(11, 1.8, 1.8);
-    translate([r*cos(a)+2,-40,5]) rotate([-90,0,90]) cylinder(11, 1.8, 1.8);
+    translate([r*cos(a),40,5]) rotate([-90,0,90]) cylinder(9, 1.8, 1.8);
+    translate([r*cos(a),-40,5]) rotate([-90,0,90]) cylinder(9, 1.8, 1.8);
 }
